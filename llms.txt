@@ -1,0 +1,69 @@
+# QuickFix Plumbing
+
+> QuickFix Plumbing is Austin's trusted plumber for emergency plumbing, repairs & installs. Fast, licensed & affordable. Call 512-555-0199 anytime, 24/7.
+
+## About
+QuickFix Plumbing has been serving Austin, TX homeowners and businesses with fast, reliable, and affordable plumbing solutions for over a decade. Our licensed plumbers are available 24/7 for emergency plumbing calls and routine service alike. We take pride in honest pricing, quality workmanship, and leaving every job site cleaner than we found it.
+
+## Services
+- Emergency Plumbing Repairs
+- Drain Cleaning & Unclogging
+- Water Heater Installation & Repair
+- Leak Detection & Repair
+- Toilet Repair & Replacement
+- Faucet & Fixture Installation
+- Pipe Repair & Repiping
+- Sewer Line Services
+- Garbage Disposal Repair & Installation
+- Water Softener Installation
+- Bathroom & Kitchen Plumbing Remodels
+- Backflow Prevention & Testing
+- Sump Pump Installation & Repair
+- Gas Line Services
+- Camera & Video Pipe Inspection
+
+## Contact
+- Phone: 512-555-0199
+- Email: info@quickfixplumbing.com
+- Address: 123 Main St, Austin, TX 78701
+- Hours: 24/7 Available
+
+## Pages
+- Homepage: /
+- Services: /services/
+- Locations: /locations/
+- Blog: /blog/
+- Contact: /contact/
+
+## Service Pages
+### Emergency Plumbing | Austin, TX | 24/7 Service
+URL: /services/emergency-plumbing-austin-tx/
+24/7 emergency plumbing in Austin, TX. QuickFix Plumbing responds fast to burst pipes, floods & more. Call 512-555-0199 now for immediate help!
+### Water Heater Repair & Replacement | Austin, TX | 24/7 Service
+URL: /services/water-heater-repair-replacement-austin-tx/
+Expert water heater repair & replacement in Austin, TX. QuickFix Plumbing fixes tank & tankless units fast. Call 512-555-0199 for same-day service!
+### Drain Cleaning & Clog Removal | Austin, TX | 24/7 Service
+URL: /services/drain-cleaning-clog-removal-austin-tx/
+Professional drain cleaning & clog removal in Austin, TX. QuickFix Plumbing clears any drain fast with hydro-jetting. Call 512-555-0199 today!
+
+## Location Pages
+### Plumbing in Round Rock, TX | 24/7 Service
+URL: /locations/plumbing-round-rock-tx/
+QuickFix Plumbing offers 24/7 plumbing services in Round Rock, TX. Leaks, drains, water heaters & more. Call 512-555-0199 for fast, reliable service today!
+### Plumbing in Cedar Park, TX | 24/7 Service
+URL: /locations/plumbing-cedar-park-tx/
+QuickFix Plumbing provides 24/7 expert plumbing in Cedar Park, TX. Repairs, installations & emergencies covered. Call 512-555-0199 for fast local service now!
+### Plumbing in Pflugerville, TX | 24/7 Service
+URL: /locations/plumbing-pflugerville-tx/
+QuickFix Plumbing serves Pflugerville, TX with 24/7 plumbing repairs, drain cleaning & water heaters. Trusted local service — call 512-555-0199 anytime!
+
+## Blog Articles
+### 5 Common Plumbing Emergencies in Austin, TX — And What To Do Before Help Arrives
+URL: /blog/common-plumbing-emergencies-austin-tx-what-to-do/
+Plumbing emergencies can strike at any moment, and knowing how to respond can save your Austin home from serious water damage. Here's what every homeowner needs to know.
+### How to Lower Your Water Bill in Austin, TX: 10 Plumbing Tips That Actually Work
+URL: /blog/how-to-lower-water-bill-austin-tx-plumbing-tips/
+Austin homeowners pay some of the highest water rates in Texas, but a few smart plumbing upgrades and habits can dramatically cut your monthly water bill. Here's how to do it.
+### 7 Warning Signs You Need to Repipe Your Austin, TX Home (And What It Costs)
+URL: /blog/signs-you-need-to-repipe-your-home-austin-tx/
+Aging or deteriorating pipes can silently damage your home and your health. Discover the seven key warning signs that your Austin, TX home may be ready for a repipe — and what to expect from the process.
